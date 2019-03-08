@@ -9,6 +9,7 @@
 		- [UI](#ui)
 		- [General](#general)
 	- [Libraries](#libraries)
+	- [CDN](#cdn)
 - [Other](#other)
 
 # Development
@@ -26,6 +27,9 @@
 	- https://pandao.github.io/editor.md/
 ## Libraries
 - LiveJS: http://livejs.com/
+
+## CDN
+- jQuery - https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.js
 
 ## Software
 
