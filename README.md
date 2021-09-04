@@ -20,7 +20,7 @@
 - Semantic UI: https://semantic-ui.com/
 ### General
 - Currency exchange: https://www.xe.com/
-- Text compare: https://text-compare.com/
+- Text compare: https://www.diffchecker.com/diff
 - Edit Readme files
 	- https://stackedit.io
 	- https://dillinger.io/
